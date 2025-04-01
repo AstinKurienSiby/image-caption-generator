@@ -86,3 +86,4 @@ Werkzeug==2.3.7
 wrapt==1.14.1
 zipp==3.16.2
 gtts==2.5.4
+python-dotenv==1.1.0
